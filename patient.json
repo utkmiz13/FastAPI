@@ -1,0 +1,47 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Aarav Sharma",
+    "age": 24,
+    "height_cm": 175,
+    "weight_kg": 68,
+    "blood_group": "B+",
+    "diagnosis": "Mild Fever"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Verma",
+    "age": 31,
+    "height_cm": 162,
+    "weight_kg": 57,
+    "blood_group": "O+",
+    "diagnosis": "Seasonal Allergy"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rohan Gupta",
+    "age": 45,
+    "height_cm": 180,
+    "weight_kg": 82,
+    "blood_group": "A+",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Sneha Patel",
+    "age": 27,
+    "height_cm": 168,
+    "weight_kg": 61,
+    "blood_group": "AB+",
+    "diagnosis": "Vitamin D Deficiency"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Kabir Singh",
+    "age": 38,
+    "height_cm": 172,
+    "weight_kg": 75,
+    "blood_group": "O-",
+    "diagnosis": "Routine Health Checkup"
+  }
+]
